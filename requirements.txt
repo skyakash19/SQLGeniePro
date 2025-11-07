@@ -1,0 +1,40 @@
+# AI and Data Processing Requirements Frameworks
+langchain
+llama-index
+crewai
+chromadb
+
+
+# Web Frameworks and ASGI Server
+fastapi
+uvicorn
+pydantic
+
+# Database and ORM Libraries
+sqlalchemy
+psycopg2-binary
+pyodbc
+mysql-connector-python
+snowflake-connector-python
+
+# Data Processing and Analysis Libraries
+tqdm
+python-dotenv
+loguru # Logging
+
+# Testing and Development Tools
+pytest
+
+# pip install sqlparse
+streamlit
+requests
+pandas
+
+# For password hashing
+passlib[bcrypt]
+
+# For JSON Web Tokens (JWT)
+python-jose[cryptography]
+
+# pip install pymysql
+pymysql
